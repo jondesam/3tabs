@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: inherit;
+  text-align: center;
+}
+
+.field {
+  margin: 2rem auto 2rem auto;
+}
